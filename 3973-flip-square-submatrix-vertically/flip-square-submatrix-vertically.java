@@ -6,15 +6,14 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
         // int[][] ans = new int[n][m];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-
-                if (i == x && j == y) {
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = 0; j < m; j++) {
+                // if (i == x && j == y) {
                     int col = y;
-                    int colEnd = j + k - 1;
-                    while (col <= colEnd) {
+                    int colEnd = y + k;
+                    while (col < colEnd) {
                         int row = x;
-                        int rowEnd = i + k - 1;
+                        int rowEnd = x + k - 1;
                         while (row < rowEnd) {
                             int temp = grid[row][col];
                             grid[row][col] = grid[rowEnd][col];
@@ -24,9 +23,9 @@ class Solution {
                         }
                         col++;
                     }
-                }
-            }
-        }
+                // }
+        //     }
+        // }
 
         return grid;
     }
