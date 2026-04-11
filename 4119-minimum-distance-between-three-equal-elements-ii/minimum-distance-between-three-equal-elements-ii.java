@@ -10,7 +10,6 @@ class Solution {
             map.get(nums[k]).add(k);
 
 
-
             if(map.get(nums[k]).size() >= 3){
                 List<Integer> cur = map.get(nums[k]);
                 int len = cur.size();
