@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
