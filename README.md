@@ -10,6 +10,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 ## Database
 |  |
 | ------- |
