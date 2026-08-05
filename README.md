@@ -64,14 +64,17 @@
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
