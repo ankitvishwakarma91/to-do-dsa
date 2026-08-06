@@ -129,6 +129,7 @@
 | [0619-biggest-single-number](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
