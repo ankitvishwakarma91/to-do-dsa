@@ -133,6 +133,7 @@
 | [1075-project-employees-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
