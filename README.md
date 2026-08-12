@@ -15,6 +15,7 @@
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -109,6 +110,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
