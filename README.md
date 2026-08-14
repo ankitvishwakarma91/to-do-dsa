@@ -36,6 +36,7 @@
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -113,6 +114,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,5 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
