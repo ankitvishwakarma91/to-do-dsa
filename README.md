@@ -103,6 +103,7 @@
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
+| [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -162,6 +163,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -172,4 +174,16 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
