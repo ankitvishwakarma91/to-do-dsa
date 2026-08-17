@@ -102,6 +102,7 @@
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
@@ -179,11 +180,13 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
