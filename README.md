@@ -104,6 +104,7 @@
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -186,4 +189,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
