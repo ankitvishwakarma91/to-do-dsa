@@ -12,6 +12,7 @@
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -105,6 +106,7 @@
 | [0204-count-primes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
@@ -196,6 +198,7 @@
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Euclidean Algorithm
