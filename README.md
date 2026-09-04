@@ -34,6 +34,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -275,4 +276,5 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
+| [3903-smallest-stable-index-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
