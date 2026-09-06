@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
