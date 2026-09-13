@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0835-image-overlap) |
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
