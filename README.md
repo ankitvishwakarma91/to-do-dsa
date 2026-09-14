@@ -130,6 +130,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
@@ -287,4 +288,8 @@
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
 | [3903-smallest-stable-index-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
