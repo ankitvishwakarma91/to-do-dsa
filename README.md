@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -277,6 +278,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
