@@ -98,6 +98,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
 | ------- |
