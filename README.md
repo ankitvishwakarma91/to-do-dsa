@@ -142,6 +142,7 @@
 | [0836-rectangle-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
