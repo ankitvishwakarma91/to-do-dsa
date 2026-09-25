@@ -156,6 +156,7 @@
 | [2427-number-of-common-factors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
