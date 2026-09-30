@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
