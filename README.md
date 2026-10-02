@@ -65,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
@@ -367,4 +369,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
