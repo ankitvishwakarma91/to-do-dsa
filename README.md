@@ -71,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -107,6 +108,7 @@
 | [0152-maximum-product-subarray](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -182,6 +184,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -363,6 +366,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [4054-count-shadow-pairs-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Stack
 |  |
@@ -374,6 +378,7 @@
 | [0020-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
