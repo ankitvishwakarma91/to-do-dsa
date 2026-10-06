@@ -6,20 +6,33 @@ class Solution {
             return 0;
 
         int count = 0;
-        Stack<Character> st = new Stack<>();
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            if (!st.isEmpty() && ch == ')') {
-                st.pop();
-            } else if (ch == '(') {
-                st.push(ch);
+        // Stack<Character> st = new Stack<>();
+        // for (int i = 0; i < n; i++) {
+        //     char ch = s.charAt(i);
+        //     if (!st.isEmpty() && ch == ')') {
+        //         st.pop();
+        //     } else if (ch == '(') {
+        //         st.push(ch);
+        //     } else {
+        //         count++;
+        //     }
+        // }
+
+        // count += st.size();
+
+        int open = 0;
+        for (char ch : s.toCharArray()) {
+            if (ch == '(') {
+                open++;
             } else {
-                count++;
+                if (open > 0) {
+                    open--;
+                } else {
+                    count++;
+                }
             }
         }
 
-        count += st.size();
-
-        return count;
+        return count + open;
     }
 }
