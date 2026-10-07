@@ -70,6 +70,7 @@
 | [0115-distinct-subsequences](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -387,4 +389,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
