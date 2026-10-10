@@ -29,6 +29,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -51,6 +52,7 @@
 | [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -340,6 +344,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
