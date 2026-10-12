@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0219-contains-duplicate-ii) |
@@ -130,12 +131,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
@@ -156,6 +159,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0835-image-overlap) |
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
@@ -401,4 +405,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
