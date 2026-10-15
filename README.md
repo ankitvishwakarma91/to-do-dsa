@@ -34,6 +34,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -225,6 +226,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -414,4 +416,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
