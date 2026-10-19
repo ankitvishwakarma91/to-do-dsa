@@ -28,6 +28,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -360,6 +362,7 @@
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Prefix Sum
