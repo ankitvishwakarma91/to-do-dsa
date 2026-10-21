@@ -84,6 +84,7 @@
 | [0214-shortest-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0940-distinct-subsequences-ii) |
@@ -225,6 +226,7 @@
 | [0217-contains-duplicate](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0567-permutation-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
