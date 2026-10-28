@@ -49,6 +49,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3904-smallest-stable-index-ii) |
 | [4054-count-shadow-pairs-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/4054-count-shadow-pairs-i) |
@@ -136,6 +137,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Depth-First Search
 |  |
@@ -174,6 +176,7 @@
 | [1463-cherry-pickup-ii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +311,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
