@@ -73,6 +73,7 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [3271-hash-divided-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -440,4 +443,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
