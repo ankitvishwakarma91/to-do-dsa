@@ -19,6 +19,7 @@
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
 | [0741-cherry-pickup](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
@@ -373,6 +374,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -447,4 +449,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
