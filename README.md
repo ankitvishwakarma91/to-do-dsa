@@ -23,6 +23,7 @@
 | [0835-image-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
@@ -200,6 +201,7 @@
 | [0486-predict-the-winner](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1406-stone-game-iii) |
@@ -400,6 +402,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0525-contiguous-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3903-smallest-stable-index-i) |
@@ -468,4 +471,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
