@@ -219,6 +219,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -386,6 +387,7 @@
 | [1929-concatenation-of-array](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitvishwakarma91/to-do-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
